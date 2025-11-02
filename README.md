@@ -230,7 +230,7 @@ CMD ["python", "app.py"]
 
 **Daniil**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@madaodlb](https://github.com/dettline1)
 
 ## 🙏 Благодарности
 
